@@ -1,2 +1,2 @@
 # CTF
-All scripts for CTF
+All notes for CTF
