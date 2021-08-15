@@ -63,7 +63,7 @@ d = 2189797798143095002044396534643034517994866375292391985173326274634754340010
 ```
 ![4](images/sage-im.png)
 
-Como ultimo paso solo es necesario extraer el archivo cifrado dentro del archivo pcap. Para esto como una buena practica siempre se debe extrar el valor original en su formato hexadecimal para conservar la integridad.
+Como ultimo paso solo es necesario extraer el archivo cifrado dentro del archivo pcap. Para esto como una buena practica siempre se debe extraer el valor original en su formato hexadecimal para conservar la integridad.
 
 ```
 ciphertext = 9fffdfb228c0fd77f52c88fc1506368102243025aa2ca2eb6eac452444f1dd9207f3621c97bfc5592ce66ecfcb668b4cec49df9a1c1ce12a1bc6050749712742d3fe775c3bf346d1e7645faefad453f50119c698b49e11aa6ef8fad9818aeb9a29ae2b2643a2f7499548bbe387d0141511d2629cc11998e64baa6d8f055bc56d7b219029bec8165c6f53e99716c8402dbc52ed48a53ea47239d38c30a8cd96cc
