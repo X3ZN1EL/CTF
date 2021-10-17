@@ -21,7 +21,7 @@ public class Program
             "6nxLEfibzE+vN+/KoQTXTPRD8X0="
         };
         bool flag = false;
-        string code = "";//GUHFJK
+        string code = ""; //GUHFJK
         string password = "";
         while (!flag){
             foreach (int value in Enumerable.Range(0, 200))
