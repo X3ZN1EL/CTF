@@ -4,8 +4,8 @@
 
 from Crypto.Util.number import *
 from Crypto.PublicKey import RSA
-import math
 from base64 import b64decode
+import math
 from pwn import *
 
 with open('old_key.pub') as a:
