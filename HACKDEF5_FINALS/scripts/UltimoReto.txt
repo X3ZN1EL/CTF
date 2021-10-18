@@ -1,0 +1,7 @@
+https://academo.org/demos/spectrum-analyzer/
+Detectantdo el spectograma en el challenge.wav
+Se obtiene el enlace de pastebin:
+https://pastebin.com/7ng40Ucd
+
+JS FUCK DECODE
+https://enkhee-osiris.github.io/Decoder-JSFuck/
