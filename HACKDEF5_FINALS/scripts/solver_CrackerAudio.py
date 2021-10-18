@@ -34,6 +34,8 @@ c = bytes_to_long(b64decode(ciphertext))
 msg = long_to_bytes(pow(c,d,n2))
 crypt_key = msg.decode()
 # hackdef{rS4_+x0R+_a3S__APT-57170
+# python3 Secure.py -d 'hackdef{rS4_+x0R+_a3S__APT-57170' '_+_CRypt0_rUL3z}' '/home/xen/CTF/final/crypto/370/audio/'
+
 
 AES_key = b'7J<(6\x1c\x16\x0fB\x0cF\ngKJ/'
 
