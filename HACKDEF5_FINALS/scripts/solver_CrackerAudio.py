@@ -5,8 +5,8 @@
 from Crypto.Util.number import *
 from Crypto.PublicKey import RSA
 from base64 import b64decode
-import math
 from pwn import *
+import math
 
 with open('old_key.pub') as a:
     key_old = RSA.importKey(a.read())
