@@ -71,3 +71,4 @@ flag = (xor(AES_key,crypt_key)).decode('utf-8')
 # _+_CRypt0_rUL3z}
 XOR_key = crypt_key + flag
 print(XOR_key[:48])
+# hackdef{rS4_+x0R+_a3S__APT-57170_+_CRypt0_rUL3z}
