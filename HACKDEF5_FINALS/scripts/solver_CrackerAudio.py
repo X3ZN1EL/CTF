@@ -4,8 +4,6 @@
 
 from Crypto.Util.number import *
 from Crypto.PublicKey import RSA
-from Crypto.Cipher import AES
-from base64 import b64decode
 import math
 from pwn import *
 
